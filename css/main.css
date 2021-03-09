@@ -42,8 +42,8 @@
 }
 .main .mainConts .circleTxt{
     position: absolute;
-    bottom: 30px;
-    left: -240px;
+    bottom: 200px;
+    right: 10px;
     animation: rotate 10s linear infinite;
     -webkit-animation: rotate 10s linear infinite;
     -moz-animation: rotate 10s linear infinite;
